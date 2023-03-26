@@ -1,0 +1,44 @@
+# Atm-Machine-Project-With-python
+
+Welcome to SS Bank. 
+Please select 1 of the menu items:
+1. Create Your Account
+2. Access Your Account
+3. Exit
+
+1----
+Welcome to SS Bank's Account Creation.
+
+First Name: _________
+Last Name: __________
+Phone: ______________
+
+Please confirm your details:
+First Name: xxxxxx
+Last Name: xxxxxxx
+Phone: xxxxxxxxxxx
+
+Press Y to continue or C to change:
+Y
+
+Account created successfully. Your account number is 1234xxxxx.
+Please choose a pin code: pppp (4 digits)
+Pleae re-enter your 4 digit pin code: pppp
+
+Your account setup process has been completed.
+Press any key to go to main menu. 
+
+
+2----------
+Welcome to SS Bank
+Please enter your account number:       (Account not found, please re-enter your account number)
+Please enter your 4 digit pin code:     (Invalid pin code, please try again)
+
+---
+Welcome to SS Bank, Your current account balance is 00000
+Plese choose one of the options:
+1. Account Details
+2. Deposit Money
+3. Withdraw Money
+4. Change Pin
+5. Exit
